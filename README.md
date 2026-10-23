@@ -11,18 +11,6 @@ Si apre inquadrando il QR code sulla targa della panchina.
 
 Il testo "Verità per Giulio Regeni" in sette lingue: italiano, inglese, francese, spagnolo, arabo, bengalese e cinese.
 
-
-| Lingua | Link |
-|---|---|
-| Italiano | https://panchinaquadraro.github.io/#it |
-| English | https://panchinaquadraro.github.io/#en |
-| Français | https://panchinaquadraro.github.io/#fr |
-| Español | https://panchinaquadraro.github.io/#es |
-| العربية | https://panchinaquadraro.github.io/#ar |
-| বাংলা | https://panchinaquadraro.github.io/#bn |
-| 中文 | https://panchinaquadraro.github.io/#zh |
-
-
 ## Da non cambiare mai
 
 - **Il nome dell'organizzazione (`panchinaquadraro`) e del repository (`panchinaquadraro.github.io`).** Il QR code stampato sulla targa punta a questo indirizzo: se cambiano, il QR smette di funzionare.
