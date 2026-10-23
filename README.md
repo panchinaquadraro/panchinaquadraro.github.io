@@ -11,7 +11,6 @@ Si apre inquadrando il QR code sulla targa della panchina.
 
 Il testo "Verità per Giulio Regeni" in sette lingue: italiano, inglese, francese, spagnolo, arabo, bengalese e cinese.
 
-La pagina sceglie da sola la lingua del telefono di chi la apre, quando è disponibile; altrimenti mostra l'italiano. Ogni lingua ha anche un link diretto:
 
 | Lingua | Link |
 |---|---|
@@ -23,7 +22,6 @@ La pagina sceglie da sola la lingua del telefono di chi la apre, quando è dispo
 | বাংলা | https://panchinaquadraro.github.io/#bn |
 | 中文 | https://panchinaquadraro.github.io/#zh |
 
-Tutto il sito è un solo file, `index.html`. Non usa cookie, non raccoglie dati e non fa richieste a server esterni (anche il carattere è incorporato nel file), quindi non serve nessun banner per la privacy.
 
 ## Da non cambiare mai
 
@@ -41,20 +39,15 @@ Se qualcosa si rompe, nella cronologia del file ("History") potete tornare alla 
 
 ## Promemoria annuale
 
-Una volta all'anno, per esempio l'**11 ottobre**, anniversario della panchina, qualcuno del comitato:
+Una volta all'anno bisogna:
 
-- entra nella casella email del comitato e su GitHub, così gli account restano attivi;
-- apre il sito dal telefono e inquadra il QR della targa per controllare che funzionino.
-
-Le persone con accesso all'organizzazione, l'email del comitato e dove si trovano password e codici di recupero sono annotate nel documento condiviso del comitato.
+- entrare nella casella email del comitato e su GitHub, così gli account restano attivi;
+- aprire il sito dal telefono e inquadra il QR della targa per controllare che funzionino.
 
 ## Licenza
 
 - **Testi:** Creative Commons Attribuzione – Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
 - **Codice della pagina:** licenza MIT.
-- **Carattere Open Sans** incorporato nella pagina: SIL Open Font License 1.1 (vedi `OFL.txt`).
-
-Dettagli nel file [`LICENSE`](LICENSE).
 
 ---
 
